@@ -1,3 +1,4 @@
+项目视频地址：https://www.acfun.cn/u/73846003
 High Dynamic Range Imaging
 一丶绪论 Introduction
 1.1问题和动机
